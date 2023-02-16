@@ -1,0 +1,17 @@
+{
+    "name": "iboua/php",
+    "autoload": {
+        "psr-4": {
+            "Iboua\\Php\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anass Bouallouch",
+            "email": "i.bouallouchanass@Outlook.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
